@@ -1,4 +1,4 @@
-tbquicksort
+tb-alg2-quicksort
 ===========
 
 Trabalho de Alg 2 Quick Sort
